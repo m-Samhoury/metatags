@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "ds.danskespil.oddset",
+    "sha256_cert_fingerprints":
+    ["AC:75:CD:24:6C:66:A8:79:F4:2D:49:39:DC:53:5E:8A:3A:25:73:1A:68:A3:7F:18:18:02:5D:EF:A0:6F:C1:19"]
+  }
+}]
